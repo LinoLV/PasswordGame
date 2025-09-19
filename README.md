@@ -4,10 +4,10 @@ The goal of the game is to make a password by using the on-screen conditions.
 v1.0 is easiest version of the game, new versions releasing soon. 
 
 
-## **How to install**
+## **💻Installation**
 Download [PaswdGameByLino_v1.0.exe](https://github.com/LinoLV/PasswordGame/releases/tag/v1.0) and open the file to launch the game.
 
 
-## **System Requirements**
-Works on almost every windows based PCs with atleast 5MB of disk space.
+## **📝System Requirements**
+Works on almost every windows based PCs with atleast 20MB of disk space.
 
