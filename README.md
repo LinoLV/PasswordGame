@@ -1,3 +1,4 @@
+![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/screenshot.png)
 # **PasswordGame**
 PasswordGame by **Lino LV** is an **offline** game.
 The goal of the game is to make a password by using the on-screen conditions.
