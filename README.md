@@ -1,6 +1,6 @@
 ![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/screenshot.png)
 # **PasswordGame**
-PasswordGame is an **offline** game.
+PasswordGame is an **🇴 🇫 🇫 🇱 🇮 🇳 🇪** game.
 The goal of the game is to make a password by following the on-screen conditions. All the correct passwords entered will win!🎖️
 **v1.0** is currently the latest version of the game and its the easiest (requiring only 13 conditions to win), new versions releasing soon. 
 ## **📝Installation**
