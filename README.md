@@ -9,3 +9,4 @@ The goal of the game is to make a password by following the on-screen conditions
 Download the .exe file from [Releases](https://github.com/LinoLV/PasswordGame/releases) and open the file to launch the game. Thats it.
 ## **💻System Requirements**
 Works on almost every **windows based PCs** with atleast 50MB of disk space.
+Also works on **linux** if you have wine installed.
