@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/screenshot.png)
+![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/Screenshot.png)
 (This screenshot shows v1.0)
 # **PasswordGame**
 PasswordGame is an **🅾🅵🅵🅻🅸🅽🅴** game.
