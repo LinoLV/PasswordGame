@@ -3,7 +3,6 @@
 # **PasswordGame**
 PasswordGame is an **🅾🅵🅵🅻🅸🅽🅴** game.
 The goal of the game is to make a password by following the on-screen conditions. All the correct passwords entered will win!🎖️
-**v2.1** is currently the latest version of the game.
 **v1.0** and **v2.0** has completely different UI.
 ## **📝Installation**
 Download the .exe file from [Releases](https://github.com/LinoLV/PasswordGame/releases/latest) and open the file to launch the game. Thats it.
