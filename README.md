@@ -1,4 +1,5 @@
 ![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/Screenshot.png)
+*Screenshot shows v2.1*
 # **PasswordGame**
 PasswordGame is an **🅾🅵🅵🅻🅸🅽🅴** game.
 The goal of the game is to make a password by following the on-screen conditions. All the correct passwords entered will win!🎖️
@@ -8,6 +9,5 @@ Download the .exe file from [Releases](https://github.com/LinoLV/PasswordGame/re
 ## **💻System Requirements**
 Works on almost every **windows based PCs** with atleast 50MB of disk space.
 Also works on **linux** if you have wine installed.
-
-### v1.0 screenshot:
+## **📸v1.0 Screenshot**:
 ![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/Old%20Screenshot.png)
