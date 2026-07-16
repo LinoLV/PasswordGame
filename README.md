@@ -1,5 +1,4 @@
 ![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/Screenshot.png)
-(This screenshot shows v1.0)
 # **PasswordGame**
 PasswordGame is an **🅾🅵🅵🅻🅸🅽🅴** game.
 The goal of the game is to make a password by following the on-screen conditions. All the correct passwords entered will win!🎖️
