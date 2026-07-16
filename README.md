@@ -8,3 +8,6 @@ Download the .exe file from [Releases](https://github.com/LinoLV/PasswordGame/re
 ## **💻System Requirements**
 Works on almost every **windows based PCs** with atleast 50MB of disk space.
 Also works on **linux** if you have wine installed.
+
+v1.0 screenshot:
+![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/Old%Screenshot.png)
