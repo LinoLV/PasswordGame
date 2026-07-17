@@ -8,7 +8,7 @@ The goal of the game is to make a password by following the on-screen conditions
 Download the .exe file from the [latest release](https://github.com/LinoLV/PasswordGame/releases/latest) and open the file to launch the game.
 ## **💻System Requirements**
 Works on almost every **Windows based PCs** with atleast 50MB of disk space.
-Also works on **Linux** and **MacOS** if you have wine installed.
-*Android support coming soon*
+Also works on **Linux** and **MacOS** if you have [wine](https://www.winehq.org/) installed.
+*(Android support coming soon.)*
 ## **📸v1.0 Screenshot**:
 ![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/v1.0%20Screenshot.png)
