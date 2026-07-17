@@ -1,4 +1,4 @@
-![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/Screenshot.png)
+![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/v2.1%20Screenshot.png)
 *Screenshot shows v2.1*
 # **PasswordGame**
 PasswordGame is an **🅾🅵🅵🅻🅸🅽🅴** game.
@@ -10,4 +10,4 @@ Download the .exe file from [Releases](https://github.com/LinoLV/PasswordGame/re
 Works on almost every **windows based PCs** with atleast 50MB of disk space.
 Also works on **linux** if you have wine installed.
 ## **📸v1.0 Screenshot**:
-![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/Old%20Screenshot.png)
+![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/v1.0%20Screenshot.png)
