@@ -1,3 +1,5 @@
+print("main.py started")
+import re
 from kivy.lang import Builder
 from kivymd.app import MDApp
 from kivy.clock import Clock
@@ -181,15 +183,15 @@ class PasswordApp(MDApp):
                       lambda p: any(n in p.lower() for n in nos)))
 
         if len(rules) == 6 and rules[-1][1](paswd):
-            rules.append(("Password must contain '#'",
+            rules.append(("Password must contain a hashtag",
                       lambda p: "#" in p))
 
         if len(rules) == 7 and rules[-1][1](paswd):
-            rules.append(("Password must contain '@'",
+            rules.append(("Password must contain a '@'",
                          lambda p: "@" in p))
 
         if len(rules) == 8 and rules[-1][1](paswd):
-            rules.append(("Password must contain '&'",
+            rules.append(("Password must contain the 'and' symbol",
                           lambda p: "&" in p))
 
         if len(rules) == 9 and rules[-1][1](paswd):
@@ -197,19 +199,19 @@ class PasswordApp(MDApp):
                           lambda p: has_total_25(p)))
 
         if len(rules) == 10 and rules[-1][1](paswd):
-            rules.append(("Password must contain '!'",
+            rules.append(("Password must contain an exclamation mark",
                           lambda p: "!" in p))
 
         if len(rules) == 11 and rules[-1][1](paswd):
-            rules.append(("Password must contain '*'",
+            rules.append(("Password must contain the star symbol",
                           lambda p: "*" in p))
 
         if len(rules) == 12 and rules[-1][1](paswd):
-            rules.append(("Password must contain '%'",
+            rules.append(("Password must contain the percentage symbol",
                           lambda p: "%" in p))
 
         if len(rules) == 13 and rules[-1][1](paswd):
-            rules.append(("Password must contain '?'",
+            rules.append(("Password must contain a question mark",
                           lambda p: "?" in p))
 
         if len(rules) == 14 and rules[-1][1](paswd):
@@ -229,15 +231,18 @@ class PasswordApp(MDApp):
                           lambda p: any(color in p.lower() for color in [
                               "red", "blue", "green", "yellow", "orange",
                               "purple", "pink", "black", "white", "brown",
-                              "gray", "grey"
+                              "gray", "grey", "magenta", "violet",
+                              "lime"
                           ])))
 
         if len(rules) == 18 and rules[-1][1](paswd):
             rules.append(("Password must contain both an even and an odd digit",
                           lambda p: any(c in "02468" for c in p) and
                                     any(c in "13579" for c in p)))
-
         if len(rules) == 19 and rules[-1][1](paswd):
+            rules.append(["Password must contain a valid hex color code", lambda p: bool(re.search(r'#[0-9A-Fa-f]{6}', p))])
+
+        if len(rules) == 20 and rules[-1][1](paswd):
             rules.append(("Password length must be a multiple of 3",
                           lambda p: len(p) % 3 == 0))
         red_rules = []
@@ -260,7 +265,7 @@ class PasswordApp(MDApp):
             else:
                 if self.complete_sound:
                     self.complete_sound.play()
-                if len(rules) == 20:
+                if len(rules) == 21:
                     Clock.schedule_once(self.show_win_screen, 1)
 
         label.opacity = 0
