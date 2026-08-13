@@ -3,7 +3,7 @@
 # **PasswordGame**
 PasswordGame is an **OFFLINE** game (Except the web version). \
 The goal of the game is to make a password by following the on-screen conditions. All the correct passwords entered will win!🎖️ \
-**• Discord Server: https://discord.gg/XVQNrWJg5c** \
+**• Discord Server: https://dsc.gg/forrealserver/** \
 **• Website: https://linolv.github.io/**
 ## **📝Installation**
 ### Web version:
