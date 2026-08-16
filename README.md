@@ -6,7 +6,7 @@ The goal of the game is to make a password by following the on-screen conditions
 <p align="center">
   <a href="https://github.com/LinoLV/PasswordGame/releases/latest"><img src="https://img.shields.io/github/v/release/LinoLV/PasswordGame?label=Latest%20Release&?style=flat&color=brightgreen"></a>
   <a href="https://github.com/LinoLV/PasswordGame/stargazers"><img src="https://img.shields.io/github/stars/LinoLV/PasswordGame?style=flat&color=red&label=Stars"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/LinoLV/PasswordGame?style=flat&color=orange&label=License></a>
+  <a href="LICENSE"> <img src="https://img.shields.io/github/license/LinoLV/PasswordGame?style=flat&color=orange&label=License"></a> 
   <a href="https://discord.gg/XVQNrWJg5c"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=blue"></a>
 </p>
 
