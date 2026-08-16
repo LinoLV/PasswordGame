@@ -1,6 +1,8 @@
 <p align="center"> <img src="https://github.com/LinoLV/PasswordGame/blob/main/v2.1%20Screenshot.png"><br>
 <small><i>Screenshot shows v2.1</i></small></p>
 
+---
+
 # <p align=center><strong>🛡️PasswordGame</strong></p>
 <p align="center"> PasswordGame is an <b>OFFLINE</b> game (Except the web version).<br>
 The goal of the game is to make a password by following the on-screen conditions. All the correct passwords entered will win!🎖️ </p> 
@@ -27,5 +29,16 @@ Download the .apk file from the [latest release](https://github.com/LinoLV/Passw
 ### Web version (No download required):
 Simply open https://linolv.github.io/passwordgameweb/ to play the game! \
 Web version code can be found here: https://github.com/LinoLV/passwordgameweb/
+
+## **🤝Contributing**
+Contributions are always welcome and appreciated!
+1. Fork the repository [here](https://github.com/LinoLV/PasswordGame/fork).
+2. Make your changes.
+3. Click "Contribute" on the top
+4. Describe **what you did** at the description and/or in the title.
+5. Then click "Open Pull Request".
+
+---
+
 ## **📸v1.0 Screenshot**:
 <p align=center> <img src="https://github.com/LinoLV/PasswordGame/blob/main/v1.0%20Screenshot.png"><br>
