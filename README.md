@@ -1,7 +1,8 @@
-![Screenshot](https://github.com/LinoLV/PasswordGame/blob/main/v2.1%20Screenshot.png) \
-*Screenshot shows v2.1*
-# <p align=center> **PasswordGame** </p>
-<p align=center> PasswordGame is an OFFLINE game (Except the web version).
+<p align="center"> <img src="https://github.com/LinoLV/PasswordGame/blob/main/v2.1%20Screenshot.png"><br>
+<small><i>Screenshot shows v2.1</i></small></p>
+
+# <p align=center><strong>🛡️PasswordGame</strong></p>
+<p align="center"> PasswordGame is an <b>OFFLINE</b> game (Except the web version).<br>
 The goal of the game is to make a password by following the on-screen conditions. All the correct passwords entered will win!🎖️ </p> 
 <p align="center">
   <a href="https://github.com/LinoLV/PasswordGame/releases/latest"><img src="https://img.shields.io/github/v/release/LinoLV/PasswordGame?label=Latest%20Release&?style=flat&color=brightgreen"></a>
@@ -12,6 +13,7 @@ The goal of the game is to make a password by following the on-screen conditions
 
 **• Discord Server: https://dsc.gg/forrealserver/** \
 **• Website: https://linolv.github.io/**
+
 ## **📝Installation**
 ### Web version:
 Simply open https://linolv.github.io/passwordgameweb/ to play the game! \
@@ -26,4 +28,4 @@ Download the .apk file from the [latest release](https://github.com/LinoLV/Passw
 > [!NOTE]
 > GBoard keyboard users might experience a glitch when editing the password. To fix this, use any other keyboard or only edit your password with the backspace key without selecting/tapping in the password field.
 ## **📸v1.0 Screenshot**:
-![Screenshot](https://github.com/LinoLV/PasswordGame/boob/main/v1.0%20Screenshot.png)
+<p align=center> <img src="https://github.com/LinoLV/PasswordGame/blob/main/v1.0%20Screenshot.png"><br>
