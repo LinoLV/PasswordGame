@@ -1,17 +1,17 @@
 <p align="center"> <img src="https://github.com/LinoLV/PasswordGame/blob/main/v2.1%20Screenshot.png"><br>
 <small><i>Screenshot shows v2.1</i></small></p>
 
----
-
-# <p align=center><strong>🛡️PasswordGame</strong></p>
-<p align="center"> PasswordGame is an <b>OFFLINE</b> game (Except the web version).<br>
-The goal of the game is to make a password by following the on-screen conditions. All the correct passwords entered will win!🎖️ </p> 
+# <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=CCFF00&text=🛡️PasswordGame&reversal=true&fontColor=000000&fontSize=75&animation=fadeIn&section=header" width="100%"/>
+</div>
 <p align="center">
   <a href="https://github.com/LinoLV/PasswordGame/releases/latest"><img src="https://img.shields.io/github/v/release/LinoLV/PasswordGame?label=Latest%20Release&style=plastic&color=brightgreen"></a>
   <a href="https://github.com/LinoLV/PasswordGame/stargazers"><img src="https://img.shields.io/github/stars/LinoLV/PasswordGame?style=plastic&color=red&label=Stars"></a>
   <a href="LICENSE"> <img src="https://img.shields.io/github/license/LinoLV/PasswordGame?style=plastic&color=orange&label=License"></a> 
   <a href="https://discord.gg/XVQNrWJg5c"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=plastic&logo=discord&logoColor=blue"></a>
 </p>
+<p> PasswordGame is an <b>OFFLINE</b> game (Except the web version).<br>
+The goal of the game is to make a password by following the on-screen conditions. All the correct passwords entered will win!🎖️ </p> 
 
 **• Discord Server: https://dsc.gg/forrealserver/** \
 **• Website: https://linolv.github.io/**
