@@ -2,7 +2,7 @@
 <small><i>Screenshot shows v2.1</i></small></p>
 
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=CCFF00&text=🛡️PasswordGame&reversal=true&fontColor=000000&fontSize=75&animation=fadeIn&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00FFFF,100:00ff00&text=🛡️PasswordGame&reversal=true&fontColor=000000&fontSize=75&animation=fadeIn&section=header" width="100%"/>
 </div>
 <p align="center">
   <a href="https://github.com/LinoLV/PasswordGame/releases/latest"><img src="https://img.shields.io/github/v/release/LinoLV/PasswordGame?label=Latest%20Release&style=plastic&color=brightgreen"></a>
@@ -40,3 +40,5 @@ Contributions are always welcome and appreciated!
 
 ## **📸v1.0 Screenshot**
 <p align=center> <img src="https://github.com/LinoLV/PasswordGame/blob/main/v1.0%20Screenshot.png"><br>
+  
+### Inspired by [the Password Game](https://neal.fun/password-game/) by Neal.
