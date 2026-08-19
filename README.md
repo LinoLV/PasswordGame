@@ -2,7 +2,7 @@
 <small><i>Screenshot shows v2.1</i></small></p>
 
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:00FFFF,100:00ff00&text=🛡️PasswordGame&reversal=true&fontColor=000000&fontSize=62&animation=fadeIn&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00FFFF,100:00FF7F&text=🛡️PasswordGame&reversal=true&fontColor=black&fontSize=60&animation=fadeIn&section=header" width="100%"/>
 </div>
 <p align="center">
   <a href="https://github.com/LinoLV/PasswordGame/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/LinoLV/PasswordGame?label=Latest%20Release&logo=github&style=plastic&color=brightgreen"></a>
