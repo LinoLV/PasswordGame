@@ -5,10 +5,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=225&color=0:00FFFF,100:00ff00&text=🛡️PasswordGame&reversal=true&fontColor=000000&fontSize=62&animation=fadeIn&section=header" width="100%"/>
 </div>
 <p align="center">
-  <a href="https://github.com/LinoLV/PasswordGame/releases/latest"><img src="https://img.shields.io/github/v/release/LinoLV/PasswordGame?label=Latest%20Release&style=plastic&color=brightgreen"></a>
-  <a href="https://github.com/LinoLV/PasswordGame/stargazers"><img src="https://img.shields.io/github/stars/LinoLV/PasswordGame?style=plastic&color=red&label=Stars"></a>
-  <a href="https://github.com/LinoLV/PasswordGame/releases"><img src="https://img.shields.io/github/downloads/LinoLV/PasswordGame/total?style=plastic&logo=github&label=Total%20Downloads&color=cyan"></a>
-  <a href="LICENSE"> <img src="https://img.shields.io/github/license/LinoLV/PasswordGame?style=plastic&color=orange&label=License"></a> 
+  <a href="https://github.com/LinoLV/PasswordGame/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/LinoLV/PasswordGame?label=Latest%20Release&logo=github&style=plastic&color=brightgreen"></a>
+  <a href="https://github.com/LinoLV/PasswordGame/stargazers"><img src="https://custom-icon-badges.demolab.com/github/stars/LinoLV/PasswordGame?style=plastic&color=red&label=Stars&logo=star"></a>
+  <a href="https://github.com/LinoLV/PasswordGame/releases"><img src="https://custom-icon-badges.demolab.com/github/downloads/LinoLV/PasswordGame/total?style=plastic&logo=download&label=Total%20Downloads&color=cyan"></a>
+  <a href="LICENSE"> <img src="https://custom-icon-badges.demolab.com/github/license/LinoLV/PasswordGame?style=plastic&color=orange&label=License&logo=law"></a> 
   <a href="https://discord.gg/XVQNrWJg5c"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=plastic&logo=discord&logoColor=blue"></a>
 </p>
 <p> PasswordGame is an <b>OFFLINE</b> game (Except the web version).<br>
