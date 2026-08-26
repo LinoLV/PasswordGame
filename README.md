@@ -34,10 +34,7 @@ Web version code can be found here: https://github.com/LinoLV/passwordgameweb/
 ## **🤝Contributing**
 Contributions are always welcome and appreciated!
 1. Fork the repository [here](https://github.com/LinoLV/PasswordGame/fork).
-2. (Optional) Create your feature branch:  
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
+2. [Optional] Create your feature branch.
 3. Make your changes.
 4. Click "Contribute" on the top of your forked repository.
 5. Describe **what you did** at the title and/or at the description.
