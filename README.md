@@ -2,7 +2,7 @@
 <small><i>Screenshot shows v2.1</i></small></p>
 
 # <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00FFFF,100:00FF7F&text=🛡️PasswordGame&reversal=true&fontColor=black&fontSize=60&animation=fadeIn&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:800000,100:190000&text=🧩PasswordGame&reversal=true&fontColor=ffffff&fontSize=58&animation=scaleIn&section=header" width="100%"/>
 </div>
 <p align="center">
   <a href="https://github.com/LinoLV/PasswordGame/releases/latest"><img src="https://custom-icon-badges.demolab.com/github/v/release/LinoLV/PasswordGame?label=Latest%20Release&logo=github&style=flat&color=brightgreen"></a>
@@ -28,15 +28,6 @@ Download the .apk file from the [latest release](https://github.com/LinoLV/Passw
 ### Web version (No download required):
 Simply open https://linolv.github.io/passwordgameweb/ to play the game! \
 Web version code can be found here: https://github.com/LinoLV/passwordgameweb/
-
-## **🤝Contributing**
-Contributions are always welcome and appreciated!
-1. Fork the repository [here](https://github.com/LinoLV/PasswordGame/fork).
-2. [Optional] Create your feature branch.
-3. Make your changes.
-4. Click "Contribute" on the top of your forked repository.
-5. Describe **what you did** at the title and/or at the description.
-6. Then click "Open Pull Request".
 
 ## **📸v1.0 Screenshot**
 <p align=center> <img src="https://github.com/LinoLV/PasswordGame/blob/main/v1.0%20Screenshot.png"><br>
