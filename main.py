@@ -245,6 +245,15 @@ class PasswordApp(MDApp):
         if len(rules) == 20 and rules[-1][1](paswd):
             rules.append(("Password length must be a multiple of 3",
                           lambda p: len(p) % 3 == 0))
+            
+        if len(rules) == 21 and rules[-1][1](paswd):
+            rules.append(("Password length must be a multiple of67",
+                          lambda p: len(p) % 3 == 0))
+            
+        if len(rules) == 22 and rules[-1][1](paswd):
+            rules.append(("have to add a foods name",
+                          lambda p: len(p) % 3 == 0))
+            
         red_rules = []
         green_rules = []
         all_green = True
