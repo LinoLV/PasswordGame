@@ -16,6 +16,9 @@ The goal of the game is to make a password by following the on-screen conditions
 **Discord Server: https://dsc.gg/forrealserver/** 
 
 ## **📝Installation**
+### Web version (Recommended + updated):
+Simply open https://linolv.github.io/passwordgameweb/ to play the game! \
+Web version code can be found here: https://github.com/LinoLV/passwordgameweb/
 ### For Windows:
 Download the .exe file from the [latest release](https://github.com/LinoLV/PasswordGame/releases/latest/) and run the .exe to play!
 ### For Linux or macOS:
@@ -25,12 +28,9 @@ Download the .exe file from the [latest release](https://github.com/LinoLV/Passw
 Download the .apk file from the [latest release](https://github.com/LinoLV/PasswordGame/releases/latest/), then install the game and open it to play!
 > [!NOTE]
 > GBoard keyboard users might experience a glitch when editing the password. To fix this, use any other keyboard or only edit your password with the backspace key without selecting/tapping in the password field.
-### Web version (No download required):
-Simply open https://linolv.github.io/passwordgameweb/ to play the game! \
-Web version code can be found here: https://github.com/LinoLV/passwordgameweb/
 
 ## **🤝Contributing**
-Contributions are always welcome and appreciated.
+Contributions are always welcome and appreciated. \
 Use kivy version 2.4.0 (`pip install kivy==2.4.0`) and kivymd version 1.2.0 (`pip install kivymd==1.2.0`) if you're interested in contributing.
 
 ## **📸v1.0 Screenshot**
