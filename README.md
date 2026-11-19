@@ -17,8 +17,8 @@ The goal of the game is to make a password by following the on-screen conditions
 
 ## **📝Installation**
 ### Web version (Recommended + updated):
-Simply open https://linolv.github.io/passwordgameweb/ to play the game! \
-Web version code can be found here: https://github.com/LinoLV/passwordgameweb/
+Simply open https://linolv.github.io/passwordgame to play the game! \
+Web version code can be found [here](https://github.com/LinoLV/linolv.github.io/tree/main/passwordgame/)
 ### For Windows:
 Download the .exe file from the [latest release](https://github.com/LinoLV/PasswordGame/releases/latest/) and run the .exe to play!
 ### For Linux or macOS:
